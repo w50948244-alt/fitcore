@@ -74,7 +74,3 @@ FitCore permite a cualquier persona que va al gym crear, seguir y medir sus ruti
 | 12 | Como usuario, quiero recibir sugerencias de rutinas generadas por IA según mi objetivo (fuerza, volumen, pérdida de grasa), para no tener que diseñarlas desde cero. | La IA genera una rutina de 4–6 ejercicios ajustada al objetivo y nivel del usuario. |
 | 13 | Como usuario premium, quiero acceder a planes de nutrición básicos vinculados a mi objetivo, para complementar mi entrenamiento. | Los planes incluyen distribución de macronutrientes y ejemplos de comidas por día. |
 
----
-
-*Documento generado como entregable de Semana 1. Commit inicial sugerido antes del inicio de la Semana 2.*
-*Ruta sugerida en repositorio: `docs/product-idea.md`*
