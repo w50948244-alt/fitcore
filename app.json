@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "FitCore",
+    "slug": "fitcore",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.fitcore.app"
+    },
+    "android": {
+      "package": "com.fitcore.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
